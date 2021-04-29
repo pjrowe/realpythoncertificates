@@ -1,8 +1,6 @@
 # Certificates of completion of realpython.com courses 
 
-Feb. 15, 2021 - Writing Beautiful Pythonic Code With PEP 8 course on 
-
-- https://realpython.com/certificates/d7fca909-b22f-4cd9-9701-94e139594d9d/
+Feb. 15, 2021 - Writing Beautiful Pythonic Code With PEP 8 course on - https://realpython.com/certificates/d7fca909-b22f-4cd9-9701-94e139594d9d/
 
 April 6, 2021 - Working With Linked Lists in Python 
 
