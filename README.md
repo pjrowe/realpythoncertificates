@@ -1,4 +1,4 @@
-Realpython is a good resource for learning python, for beginners to advanced learners.  I like it much more than the first courses I took because realpython is more thorough and organized.  I wish I had found it earlier.  Some of the following courses were review for me, but I learned something new in almost all of them.  
+Realpython is a good resource for learning python, for beginners to advanced learners.  I like it much more than the first courses I took because realpython is more thorough and organized.  I wish I had found it earlier.  Some of the following courses were review for me, but I learned something new in almost all of them.  The following reflects a binge of course completions from when I joined in February 2021.
 
 # Certificates of completion of realpython.com courses 
 
