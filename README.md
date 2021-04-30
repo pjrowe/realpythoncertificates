@@ -10,13 +10,20 @@
 
 
 ## Feb. 16, 2021 
-- Write Pythonic Loops - https://realpython.com/certificates/d5ac20c9-19b3-4907-b92e-e5d74a29091f/
 
+- Write Pythonic Loops - https://realpython.com/certificates/d5ac20c9-19b3-4907-b92e-e5d74a29091f/
 - How to Use Lambda Functions - https://realpython.com/certificates/43e640bc-bffc-4d62-8d18-a9e5fcb1319c/
-## Feb. 17, 2021 - Using List Comprehensions Effectively - https://realpython.com/certificates/23b84938-930e-46ce-937c-15dd7ed5f2f1/
-## Feb. 18, 2021 - Python Type Checking - https://realpython.com/certificates/2ded75f3-a8da-476a-85e2-62a776bb92f8/
-              - Python String Formatting Tips & Best Practices - https://realpython.com/certificates/bfb05c2a-9f8b-4b34-8a80-82cc9e042b84/
-              - Comparing Python Objects the Right Way: "is" vs "==" - https://realpython.com/certificates/3544258a-4f44-4cd8-ba1b-635768ed5b47/
+
+## Feb. 17, 2021 
+
+- Using List Comprehensions Effectively - https://realpython.com/certificates/23b84938-930e-46ce-937c-15dd7ed5f2f1/
+
+## Feb. 18, 2021 
+
+- Python Type Checking - https://realpython.com/certificates/2ded75f3-a8da-476a-85e2-62a776bb92f8/
+- Python String Formatting Tips & Best Practices - https://realpython.com/certificates/bfb05c2a-9f8b-4b34-8a80-82cc9e042b84/
+- Comparing Python Objects the Right Way: "is" vs "==" - https://realpython.com/certificates/3544258a-4f44-4cd8-ba1b-635768ed5b47/
+
 ## Feb. 20, 2021 
 
 - Running Python Scripts - https://realpython.com/certificates/7c8e897c-c605-4876-8837-bc7d22f069f4/
@@ -24,16 +31,19 @@
 - Running Python Scripts - https://realpython.com/certificates/7c8e897c-c605-4876-8837-bc7d22f069f4/
 
 ## Feb. 21, 2021 
+
 - Python Debugging With pdb - https://realpython.com/certificates/2427f5fb-c18a-41a8-a887-bcd24c39071a/
 
-## Feb. 27, 2021 - Introduction to Git and GitHub for Python Developers - https://realpython.com/certificates/3bb76445-d17f-4527-9811-1ee62578843d/
+## Feb. 27, 2021 
+- Introduction to Git and GitHub for Python Developers - https://realpython.com/certificates/3bb76445-d17f-4527-9811-1ee62578843d/
 
-## March 29, 2021- Records and Sets: Selecting the Ideal Data Structure - https://realpython.com/certificates/e3b16c00-9db4-4a01-b7a5-0ca868d12565/
+## March 29, 2021
+- Records and Sets: Selecting the Ideal Data Structure - https://realpython.com/certificates/e3b16c00-9db4-4a01-b7a5-0ca868d12565/
 
-## April 1, 2021 - Idiomatic Pandas: Tricks & Features You May Not Know - https://realpython.com/certificates/2daa2de7-063f-4465-be83-e4fb6655197a/
+## April 1, 2021 
+- Idiomatic Pandas: Tricks & Features You May Not Know - https://realpython.com/certificates/2daa2de7-063f-4465-be83-e4fb6655197a/
 
 ## April 6, 2021 
-
 - Working With Linked Lists in Python - https://realpython.com/certificates/df69d79a-977f-434d-a2d6-fa73f8b8420d/
 - Pandas DataFrames 101 - https://realpython.com/certificates/031d2a9c-1895-43c8-9e96-8b9c5554f0d1/
 - Using NumPy's np.arange() Effectively - https://realpython.com/certificates/4ad2b260-acf5-48ae-8d40-b537fc31b9c9/
