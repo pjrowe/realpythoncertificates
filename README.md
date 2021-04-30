@@ -1,5 +1,7 @@
 # Certificates of completion of realpython.com courses 
 
+Total: 22 courses, 540+ minutes (9+ hours)
+
 ## Feb. 15, 2021 
 - Writing Comments in Python - https://realpython.com/certificates/a04c3b6b-943f-4230-9e6d-80b2f925b23c/
 - Writing Beautiful Pythonic Code With PEP 8 - https://realpython.com/certificates/d7fca909-b22f-4cd9-9701-94e139594d9d/
